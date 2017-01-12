@@ -25,5 +25,7 @@
   <modules>
     <module>smart-mobileweb</module>
     <module>smart-pcweb</module>
+    <module>smart-service</module>
+    <module>smart-dao</module>
   </modules>
 </project>
