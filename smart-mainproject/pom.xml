@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>smart-mobileweb</module>
+    <module>smart-pcweb</module>
   </modules>
 </project>
